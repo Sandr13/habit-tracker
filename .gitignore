@@ -8,5 +8,7 @@ venv/
 __pycache__/
 *.pyc
 
-#игнорировать базу данных проекта
-habits.db
+#игнорировать базы данных проекта
+/database/
+test_db_cmd.py
+identifier.sqlite
