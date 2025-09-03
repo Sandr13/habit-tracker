@@ -9,6 +9,3 @@ __pycache__/
 *.pyc
 
 #игнорировать базы данных проекта
-/database/
-test_db_cmd.py
-identifier.sqlite
